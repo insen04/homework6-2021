@@ -124,7 +124,7 @@ header{
   /*Requirement 11*/
   .package {
     /*Your code here again.*/
-    flex-basis:200px;
+    flex-basis:230px;
     display: flex;
     justify-content: center;
     flex-wrap: nowrap;
